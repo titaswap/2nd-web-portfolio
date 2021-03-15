@@ -1,0 +1,268 @@
+
+body{
+    margin: 0px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+ul{
+    
+    padding: 0 75px 0 0;
+    margin: 10px;
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+li{
+    float: right;
+    padding-right: 7%;
+    height: 36px;
+}
+li a{
+    position: fixed;
+    display: block;
+    text-decoration: none;
+    height: 36px;
+    padding: 0px 28px;
+    color: #3C3C3C;
+    
+}
+ .hover:hover{
+    background-color:#FF8367;
+    border-radius: 6px;
+}
+h1{
+    font-size: 60px;
+    line-height: 15px;
+}
+.text-highlight1{
+    color:#363958;
+}
+.text-highlight{
+    color:#FF8367;
+}
+p{
+    color: dimgray;
+}
+.welcometext{
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 50px;
+    padding-left: 2%;
+    
+}
+.div1{
+    padding-top: 20px;
+}
+.half-width img{
+    width: 100%;
+}
+.hire-botton{
+    text-decoration: none;
+    line-height: 60px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(45deg, lightsalmon, tomato)
+}
+.about{
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    line-height: 48px;
+   
+}
+.aboutdiv{
+    
+    padding-left: 50px;
+}
+.sec2div2{
+    margin-top: -50px;
+}
+.download-botton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.section3{
+    clear: left;
+    height: 814px;
+    margin-top: 30px;
+    background-color:#F8F9FC;
+}
+
+.WORKING_PROJECT{
+    text-align: center;
+    font-size: 40px;
+    line-height: 250px;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.pic2{
+    margin-bottom: 50px;
+}
+.sec3div3{
+    margin: 5%;
+}
+.sec3div1{
+    position:sticky;
+    width: 30%;
+    height: 374px;
+    margin-left: 2%;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+    float: left;
+    color:#363958;
+}
+.images_size{
+    padding: 2.5% 1% 1% 1%;
+    margin: 4%;
+    width: 90%;
+    height: 60%;
+    margin-top: 5px;
+}
+.text_size{
+    padding-left: 2%;
+    margin-left: 5%;
+    line-height: -0px;
+    margin-top: 0;
+    font-size: 120%;
+}
+.textp_size{
+    padding-left: 2%;
+    margin-left: 5%;
+    font-size: 16px;
+    line-height: 28px;
+}
+.section4{
+    /* border: 2px red solid; */
+    margin-top: 5px;
+
+}
+
+
+.sec4div1{
+    margin: 100px auto;
+    width: 906px;
+    height: 225px;
+    
+    background: url(images/pic7.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 200px;
+    
+}
+.Work_Inquiry{
+    margin: 100px auto;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    float: left;
+    font-weight: 90;
+}
+.Lets_Chat{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    color: white;
+    border-radius: 6px;
+    width: 134px;
+    height: 35px;
+    padding-top: 15px;
+    float: right;
+    text-align: center;
+    margin-right: 170PX;
+    margin-top: 70px;
+}
+.footer{
+    
+    margin-top: -50px;
+}
+.footer_div1{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: #696871;
+    font-weight: 100;
+}
+.email{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    color: #363958;
+    line-height: 10px;
+}
+.footer_logo{
+    
+    margin-left: 45%;
+    margin-top: 5px ;
+    margin-bottom: 150px;
+   
+}
+.main_logo1{
+    width: 40px;
+    height: 40px;
+    left: 635px;
+    top: 2539px;
+    background: url(images/pic8.png);
+    background-size: contain;
+    background-position: center;
+    float: left;
+    margin-bottom: 50px;
+    margin-left: 1%;
+    margin-top: 10px;
+    
+}
+    
+.main_logo2{
+    width: 40px;
+    height: 40px;
+    left: 635px;
+    top: 2539px;
+    background: url(images/pic9.png);
+    background-size: contain;
+    background-position: center;
+    float: left;
+    margin-bottom: 50px;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.main_logo3{
+    width: 40px;
+    height: 40px;
+    left: 635px;
+    top: 2539px;
+    background: url(images/pic10.png);
+    background-size: contain;
+    background-position: center;
+    float: left;
+    margin-bottom: 50px;
+    margin-left: 3%;
+    margin-top: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+    
