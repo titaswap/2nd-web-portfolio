@@ -155,8 +155,8 @@ p{
 }
 .sec3div1:hover{
     margin: 1%;
-    background-color: black;
-    color: #e91d63;
+    background-color: #e91d63;
+    color: black;
     
 }
 
@@ -179,14 +179,20 @@ p{
     margin-left: 5%;
     font-size: 16px;
     line-height: 28px;
-    color: #e91d63;
+    color: black;
 }
 .section4{
     /* border: 2px red solid; */
     margin-top: 5px;
 
 }
-
+.sec4div1:hover{
+    width: 55%;
+   
+}
+.Work_Inquiry:hover{
+    color: black;
+}
 
 .sec4div1{
     margin: 100px auto;
