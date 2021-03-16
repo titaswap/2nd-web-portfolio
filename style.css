@@ -88,6 +88,10 @@ p{
 .text-highlight1:hover{
     font-size: 110%;
 }
+.about:hover{
+    font-size: 55px;
+    color: #e91d63;
+}
 .hire-botton{
     text-decoration: none;
     line-height: 60px;
