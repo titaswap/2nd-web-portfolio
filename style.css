@@ -33,14 +33,24 @@ li a{
 .hire-botton:hover{
     background-color: black;
     color: #e91d63;
+    font-size: 25px;
 }
 .download-botton:hover{
     background-color: black;
     color: #e91d63;
+    font-size: 25px;
+}
+.hover{
+    background-color: #e91d63;
+    border-radius: 6px;
+    
+    
 }
  .hover:hover{
-    background-color:#e91d63;
+    background-color:black;
     border-radius: 6px;
+    color:#e91d63 ;
+    font-size: 20px;
 }
 h1{
     font-size: 60px;
@@ -71,6 +81,12 @@ p{
 }
 .half-width img{
     width: 100%;
+}
+.text-highlight:hover{
+    font-size: 110%;
+}
+.text-highlight1:hover{
+    font-size: 110%;
 }
 .hire-botton{
     text-decoration: none;
@@ -133,6 +149,13 @@ p{
     float: left;
     color:#363958;
 }
+.sec3div1:hover{
+    margin: 1%;
+    background-color: black;
+    color: #e91d63;
+    
+}
+
 .images_size{
     padding: 2.5% 1% 1% 1%;
     margin: 4%;
@@ -152,6 +175,7 @@ p{
     margin-left: 5%;
     font-size: 16px;
     line-height: 28px;
+    color: #e91d63;
 }
 .section4{
     /* border: 2px red solid; */
