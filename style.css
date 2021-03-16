@@ -30,6 +30,14 @@ li a{
     color: #3C3C3C;
     
 }
+.hire-botton:hover{
+    background-color: black;
+    color: #e91d63;
+}
+.download-botton:hover{
+    background-color: black;
+    color: #e91d63;
+}
  .hover:hover{
     background-color:#e91d63;
     border-radius: 6px;
@@ -73,7 +81,7 @@ p{
     background-color: #e91d63;
 }
 .about{
-    color:#363958;
+    color:black;
     font-family: 'Bebas Neue', cursive;
     font-size: 48px;
     line-height: 48px;
@@ -88,7 +96,7 @@ p{
 }
 .download-botton{
     text-decoration: none;
-    background-color: #f21e4e;
+    background-color: #e91d63;
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
